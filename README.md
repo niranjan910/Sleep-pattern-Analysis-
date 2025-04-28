@@ -1,37 +1,60 @@
-# BigBasket-Grocery-Trends 📊
+# 📊 Sleep Pattern Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-yellowgreen)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-blueviolet)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-lightblue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentation-red)
+This data analytics project explores sleep habits using Python (Pandas, Matplotlib) and Excel to uncover trends in sleep quality and duration. Includes dataset, Jupyter Notebook analysis, and presentation with key insights.
+- Author - Niranjan
+- Date - 26 April 2025
+---
+
+## 📌 Project Overview
+-	This project explores the AI job market by analysing trends in job titles, industries, required skills, salaries, remote work options, and future growth projections.
+
+-	The aim is to generate valuable insights for job seekers, companies, and analysts to better understand the evolving landscape of AI careers.
+
+## Problem Statement
+As Artificial Intelligence rapidly grows across industries, both job seekers and organizations face uncertainty about AI job trends.
+This project addresses the following questions:
+- Which industries are leading in AI adoption?
+- What are the common required skills for AI roles?
+- How does company size relate to salaries in AI jobs?
+- What is the distribution between remote and onsite AI jobs?
+- Which job titles are at higher automation risk?
+- What is the projected growth for AI-related roles?
 
 
-A data-driven project to analyze and predict student academic performance using Python, EDA, and Machine Learning.
 
-## 📌 Overview
-This project analyzes BigBasket's sales data to uncover trends in customer purchasing behavior, popular product categories, seasonal demand patterns, and regional sales performance. Using data cleaning, exploratory analysis (EDA), and visualization, the goal is to derive actionable insights for optimizing inventory management, pricing strategies, and marketing campaigns. Predictive modeling may also be applied to forecast future sales trends.
+---
 
-## 🚀 Key Objectives:
-- Identify best-selling products and high-demand categories.
-- Analyze sales trends across different regions and time periods.
-- Evaluate pricing and discount impacts on customer purchases.
-- Provide data-driven recommendations to improve sales and customer retention.
+## 🛠️ Tools & Technologies
+- **Python**
+- **Jupyter Notebook**
+- **Pandas** (for data manipulation)
+- **Plotly & Seaborn** (for data visualization)
 
-## 🛠️ Features
-- **Data Cleaning & Preprocessing** (handling missing values, outliers)
-- **Exploratory Data Analysis (EDA)** (trends, correlations, statistical summaries)
-- **Predictive Modeling** (grade prediction using regression/classification)
-- **Interactive Visualizations** (matplotlib/seaborn)
-- **Insightful Reports** (Jupyter Notebook)
+---
 
-## 📂 Dataset
-- Sample dataset included in `/data` (e.g., `StudentPerformance.csv`)
-- Common features: `Math Score`, `Reading Score`, `Attendance`, `Parental Education`, etc.
+## 📂 How to Use
+1. Clone this repository.
+2. Download the Dataset `ai_job_data.csv`
+3. Open `AI_CareerScopeipynb` in **Jupyter Notebook**.
+4. Run the notebook cells sequentially to view analysis and visualizations.
+5. For reference see the Presentation `AI Career Scope Documentation.pdf`
 
-  ## 📬 Contact
+---
+
+## 📈 Key Insights
+- 📌 **Remote jobs offer 20% higher average salaries** compared to on-site roles.
+- 📌 **Top hiring industries**: Healthcare AI and FinTech.
+- 📌 Significant job demand in cities like **San Francisco, Bangalore, and London** (if applicable — add or adjust based on your analysis).
+
+---
+
+## 📊 Data Source
+[AI-Powered Job Market Insights — Kaggle](https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)
+
+---
+
+## 📬 Contact
 For queries or collaborations:
 - **Email**: [niranjan991100@gmail.com]
 - **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
+
