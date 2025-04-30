@@ -30,22 +30,14 @@ The project's dataset, `sleep_data.csv`, was sourced from Kaggle and includes de
 The cleaned data set redy for visualization, `cleaned_sleep_data.csv`.
 The primary data fields are as follows:
 
-- **sleep**: Weekly hours spent sleeping (excluding naps)
-- **slpnaps**: Weekly hours spent sleeping including naps
-- **totwrk_hr**: Weekly working hours
-- **totleisure_hr**: Weekly leisure hours
-- **hourly_wage**: Wage earned per hour
-- **income**: Total income
-- **male**: Gender indicator
-- **married**: Marital status
-- **youngkids**: Presence of children under 6 years
-- **education**: Education level
-- **experience**: Years of work experience
-- **selfemployed**: Employment type indicator
-- **good_health**: Health condition indicator
-- **inlf**: Labor force participation
-- **smsa**, **south**: Regional classification
-- **clerical**, **construction_Worker**: Job category indicators
+- **age**: Age in years
+- **black**: If the indivisual is Black race
+- **record_id**: Case Identifier
+- **clerical_worker**: if the individual is a clerical worker
+- **construction_Worker**: if the individual is a construction worker
+- **education**: Years of schooling
+- **earns_1974**: Total earnings in 1974
+- **good_health**: Yes if the individual is in good or excellent health
 
 ---
 
