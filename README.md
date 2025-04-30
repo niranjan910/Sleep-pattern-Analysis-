@@ -26,7 +26,9 @@ An interactive visualization dashboard will be added shortly
 
 # Data Structure & Initial Checks
 
-The project's dataset, `sleep_data.csv`, was sourced from Kaggle and includes detailed information on working individuals across the United States. The primary data fields are as follows:
+The project's dataset, `sleep_data.csv`, was sourced from Kaggle and includes detailed information on working individuals across the United States.
+The cleaned data set redy for visualization, `cleaned_sleep_data.csv`.
+The primary data fields are as follows:
 
 - **sleep**: Weekly hours spent sleeping (excluding naps)
 - **slpnaps**: Weekly hours spent sleeping including naps
