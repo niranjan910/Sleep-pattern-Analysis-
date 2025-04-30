@@ -1,0 +1,79 @@
+Colums Description
+
+age: Age in years.
+black: Equal to 1 if the individual is of Black race.
+case: Case identifier.
+clerical: Equal to 1 if the individual is a clerical worker.
+construc: Equal to 1 if the individual is a construction worker.
+educ: Years of schooling.
+earns74: Total earnings in 1974.
+gdhlth: Equal to 1 if the individual is in good or excellent health.
+inlf: Equal to 1 if the individual is in the labor force.
+leis1: Sleep time minus working time.
+leis2: Sleep time (including short naps) minus working time.
+leis3: Relaxation and leisure time minus working time.
+smsa: Equal to 1 if the individual lives in a Standard Metropolitan Statistical Area (SMSA).
+lhrwage: Natural logarithm of hourly wage.
+lothinc: Natural logarithm of other income, unless income is less than 0.
+male: Equal to 1 if the individual is male.
+marr: Equal to 1 if the individual is married.
+prot: Equal to 1 if the individual is Protestant.
+rlxall: Total relaxation and leisure time, including personal activities.
+selfe: Equal to 1 if the individual is self-employed.
+sleep: Minutes of sleep at night per week.
+slpnaps: Minutes of sleep, including naps, per week.
+south: Equal to 1 if the individual lives in the South.
+spsepay: Spousal wage income.
+spwrk75: Equal to 1 if the spouse works.
+totwrk: Minutes worked per week.
+union: Equal to 1 if the individual belongs to a labor union.
+worknrm: Minutes worked in the main job.
+workscnd: Minutes worked in the second job.
+exper: Work experience calculated as age - education - 6.
+yngkid: Equal to 1 if children under 3 years old are present.
+yrsmarr: Years married.
+hrwage: Hourly wage.
+agesq: Age squared.
+
+
+
+
+
+After Data Cleaning 
+-------------------
+
+age                   : Age in years.
+black                 : Yes if the individual is of Black race.
+record_id             : Case identifier.
+clerical_worker       : Yes if the individual is a clerical worker.
+construction_Worker   : Yes 1 if the individual is a construction worker.
+education             : Years of schooling.
+earns_1974            : Total earnings in 1974.
+good_health           : Yes if the individual is in good or excellent health.
+labour_force          : Yes if the individual is in the labor force.
+effeciency            : Sleep time minus working time in Hours
+total_sleep           : Sleep time (including short naps) minus working time in hours.
+free_time             : Relaxation and leisure time minus working time.
+smsa_area             : Yes if the individual lives in a Standard Metropolitan Statistical Area (SMSA).
+log_hr_wage           : Natural logarithm of hourly wage in hrs
+log_other_income      : Natural logarithm of other income, unless income is less than 0 in hrs
+male                  : Yes if the individual is male.
+marital_status        : Yes if the individual is married.
+protestant            : Yes if the individual is Protestant.
+relax_time            : Total relaxation and leisure time, including personal activities.
+selfe                 : Yes if the individual is self-employed.
+sleep                 : sleep at night per week in hours
+sleep_week            : sleep, including naps, per week in hours.
+south                 : yes if the individual lives in the South.
+spouse_income         : Spousal wage income.
+spouse_works          : yes if the spouse works.
+totwrk_hr             : Minutes worked per week.
+labour_union          : Yes if the individual belongs to a labor union.
+main_job_wrork_time   : worked in the main job in hours
+Worked_second         : worked in the second job in hours
+experience            : Work experience calculated as age - education - 6.
+young_kid             : Equal to 1 if children under 3 years old are present.
+years_married         : Years married.
+hourly_wage           : Hourly wage.
+age_squared           : Age squared.
+nap_minutes_per_week  : Nap per week 
