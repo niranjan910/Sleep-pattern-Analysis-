@@ -7,6 +7,7 @@ Date: 26 April 2025
 
 # Project Background
 
+
 This project explores the sleep patterns of working individuals, focusing on how various factors such as work hours, income, health, gender, education, and family responsibilities impact sleep and leisure time. The objective was to identify key patterns that influence the quantity and quality of sleep and provide insights for personal well-being, work-life balance, and health-conscious decision-making.
 
 Insights and recommendations are provided on the following key areas:
