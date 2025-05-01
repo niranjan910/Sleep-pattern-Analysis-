@@ -18,7 +18,8 @@ Insights and recommendations are provided on the following key areas:
 - **Family and Demographic Influence**
 - **Income, Occupation, and Time Use**
 
-The Python notebooks used to inspect, clean, and analyze the data can be found here `Sleep_Data_Analytics.ipynb`.  
+The Python notebooks used to inspect, clean, and analyze the data can be found here `Sleep_Data_Analytics_1.ipynb`and `Sleep_pattern_analysis_2.ipynb`.
+An pdf of the complete documentation for the columns description can be found here ` `.
 An executive presentation summarizing the results can be found here `Sleep Project Documentation.pdf`  
 An interactive visualization dashboard will be added shortly 
 
