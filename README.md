@@ -30,14 +30,34 @@ The project's dataset, `sleep_data.csv`, was sourced from Kaggle and includes de
 The cleaned data set redy for visualization, `cleaned_sleep_data.csv`.
 The primary data fields are as follows:
 
-- **age**: Age in years
-- **black**: If the indivisual is Black race
-- **record_id**: Case Identifier
-- **clerical_worker**: if the individual is a clerical worker
-- **construction_Worker**: if the individual is a construction worker
-- **education**: Years of schooling
-- **earns_1974**: Total earnings in 1974
-- **good_health**: Yes if the individual is in good or excellent health
+1.	**age**                               : Age in years.
+2.	**clerical_worker**               : Yes if the individual is a clerical worker.
+3.	**construction_Worker**   : Yes if the individual is a construction worker.
+4.	**education**                 : Years of schooling
+5.	**earns_1974**                  : Total earnings in 1974.
+6.	**good_health**            : Yes if the individual is in good or excellent health.
+7.	**labour_force**          : Yes if the individual is in the labor force.
+8.	**awake_time**         : Sleep time (including nap) minus working time in Hours
+9.	**free_time**              : Relaxation and leisure time minus working time.
+10.	**smsa_area**             : Yes if the individual lives in a Standard Metropolitan Statistical Area (SMSA).
+11.	**male**                            : Yes if the individual is male.
+12.	**marital_status**        : Yes if the individual is married.
+13.	**protestant**                : Yes if the individual is Protestant.
+14.	**relax_time**            : Total relaxation and leisure time, including personal activities.
+15.	**self_employed**                : Yes if the individual is self-employed.
+16.	**sleep**                       : sleep at night per week in hours
+17.	**total_sleep_week**          : sleep, including naps, per week in hours.
+18.	**south**                        : yes if the individual lives in the South.
+19.	**spouse_income**         : Spousal wage income.
+20.	**spouse_works**                 : yes if the spouse works.
+21.	**totwrk_hr**             : Hours worked per week.
+22.	**labour_union**          : Yes if the individual belongs to a labor union.
+23.	**young_kid**                 : Yes if children under 3 years old are present.
+24.	**years_married**        : Years married.
+25.	**hourly_wage**                : Hourly wage.
+26.	**nap_per_week_hour** : total_sleep_week  -  sleep (total nap hours in a week)
+27.	**total_work_time**         : main_job_wrork_time + Worked_second 
+
 
 ---
 
