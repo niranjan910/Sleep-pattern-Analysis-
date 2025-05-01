@@ -1,4 +1,4 @@
-# Sleep Pattern Data Analytics
+# **Sleep Pattern Data Analytics**
 
 **Author:** Niranjan  
 **Date:** 1 May 2025
