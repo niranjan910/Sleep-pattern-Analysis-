@@ -4,6 +4,14 @@ Author: Niranjan
 Date: 1 May 2025
 
 ---
+# Business Problem
+1.	Does being a clerical or a construction worker influence toptal sleep and work hours?
+2.	How Do married indivisuals with young kids manage their lseep and relaxation time compared to those with without kids?
+3.	Is there a wage gap in hourly earnings between self-employes vs labour union members vs salaried employees?
+4.	What’s the impact of living in urban areas (SMSA) or the south on sleep duration and work hour ?
+5.	Do indivisuals in good health report significant different work hours and sleep patterns than those in poorer health?
+
+ ---
 
 # Project Background
 
