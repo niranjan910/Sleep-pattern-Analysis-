@@ -15,8 +15,7 @@
 
 # Project Background
 
-
-This project explores the sleep patterns of working individuals, focusing on how various factors such as work hours, income, health, gender, education, and family responsibilities impact sleep and leisure time. The objective was to identify key patterns that influence the quantity and quality of sleep and provide insights for personal well-being, work-life balance, and health-conscious decision-making.
+This project explores the sleep patterns of working individuals from america in 1974, focusing on how various factors such as work hours, income, health, gender, education, and family responsibilities impact sleep and leisure time. The objective was to identify key patterns that influence the quantity and quality of sleep and provide insights for personal well-being, work-life balance, and health-conscious decision-making.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -35,7 +34,7 @@ An interactive visualization dashboard will be added shortly
 
 # Data Structure & Initial Checks
 
-The project's dataset, `sleep_data.csv`, was sourced from Kaggle and includes detailed information on working individuals across the United States.
+The project's dataset, `sleep_data.csv`, includes detailed information on working individuals across the United States.
 The cleaned data set redy for visualization, `cleaned_sleep_data.csv`.
 The primary data fields are as follows:
 
@@ -157,3 +156,4 @@ Several assumptions were made to address data limitations:
 For queries or collaborations:
 - **Email**: [niranjan991100@gmail.com]
 - **LinkedIn**: (https://www.linkedin.com/in/niranjan-k-a83517229/)
+- **Kaggle** : (https://www.kaggle.com/datasets/deadsoul66/sleep-dataset)
