@@ -39,11 +39,11 @@ The project's dataset, `sleep_data.csv`, was sourced from Kaggle and includes de
 The cleaned data set redy for visualization, `cleaned_sleep_data.csv`.
 The primary data fields are as follows:
 
-1.	**age**                               : Age in years.
+1.	**age**                           : Age in years.
 2.	**clerical_worker**               : Yes if the individual is a clerical worker.
-3.	**construction_Worker**   : Yes if the individual is a construction worker.
-4.	**education**                 : Years of schooling
-5.	**earns_1974**                  : Total earnings in 1974.
+3.	**construction_Worker**           : Yes if the individual is a construction worker.
+4.	**education**                     : Years of schooling
+5.	**earns_1974**                    : Total earnings in 1974.
 6.	**good_health**            : Yes if the individual is in good or excellent health.
 7.	**labour_force**          : Yes if the individual is in the labor force.
 8.	**awake_time**         : Sleep time (including nap) minus working time in Hours
