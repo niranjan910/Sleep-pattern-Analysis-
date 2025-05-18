@@ -83,7 +83,6 @@ The analysis revealed a strong inverse relationship between work hours and sleep
 
 * Most individuals sleep between 40 and 60 hours per week.
 * Very few participants report sleeping less than 35 or more than 70 hours weekly, showing a centralized pattern with few outliers.
-![Sleep Distribution](images/Sleep_distribution.png)
 
 ### Relationship Between Sleep and Work Hours
 
